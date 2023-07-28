@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('https://img.freepik.com/free-photo/girl-walking-nature_23-2147711532.jpg?w=996&t=st=1690537490~exp=1690538090~hmac=b55f60fb6a2200a7348669d0f03356f1fe3cd30338cc4c6e968dc98cfb6169f9');
+    background: url('images/pretty.jpg');
     background-size:cover;
     position:relative;
 }
